@@ -2,5 +2,7 @@
   "limit": 100,
   "countdown": 300,
   "country_time": "en-US",
-  "tradingWinRate": 1
+  "tradingWinRate": 1,
+  "isSkipInvalidProxy": true,
+  "delayEachAccount": [5, 8]
 }
