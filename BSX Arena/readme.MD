@@ -32,6 +32,8 @@ To get started with the bot, follow these steps:
 
 ```json
 {
+  "isSkipInvalidProxy": true,
+  "delayEachAccount": [5, 8],
   "tradingWinRate": 1, //1 is 100% winrate,
   "limit": 5, //number of accounts run in a row
   "countdown": 300, //time to restarts all the accounts - count by seconds
