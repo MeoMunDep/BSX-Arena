@@ -4,5 +4,6 @@
   "country_time": "en-US",
   "tradingWinRate": 1,
   "isSkipInvalidProxy": true,
-  "delayEachAccount": [5, 8]
+  "delayEachAccount": [5, 8],
+  "referralCode": "04qEHniJ"
 }
